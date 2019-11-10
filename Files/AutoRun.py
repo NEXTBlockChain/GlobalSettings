@@ -10,8 +10,8 @@ import platform
 
 
 if __name__ == "__main__":
-	val = os.system(
-		'/bin/cat /home/tmp/GlobalSettings/Files/service.start >/etc/local.d/service.start')
+	print('Run AutoRun in linux')
+	val = os.system('/bin/cat /home/tmp/GlobalSettings/Files/service.start > /etc/local.d/service.start')
 
 
 
