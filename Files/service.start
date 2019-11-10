@@ -11,7 +11,7 @@ echo "  Donate :https://paypal.me/HappyQQ     "
 echo "========================================"
 echo "Thanks:"
 echo "  Google,Github"
-echo "  HappyQQ,WeiZhibo"
+echo "  HappyQQ,WeiZhibo,test02"
 echo ""
 echo ""
 /usr/bin/python /home/tmp/GlobalSettingUpdate.py
