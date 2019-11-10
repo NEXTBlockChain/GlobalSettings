@@ -7,10 +7,11 @@ import os
 import shutil
 import configparser
 import platform
-from git import Repo
+
 
 if __name__ == "__main__":
-	print("Autorun Now!!!")
+	val = os.system(
+		'/bin/cat /home/tmp/GlobalSettings/Files/service.start >/etc/local.d/service.start')
 
 
 
